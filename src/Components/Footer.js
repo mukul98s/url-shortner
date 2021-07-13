@@ -3,10 +3,6 @@ import React from "react";
 import styled from "styled-components";
 import bgShortenDesktop from "../Assets/images/bg-shorten-desktop.svg";
 import bgShortenMobile from "../Assets/images/bg-shorten-mobile.svg";
-import instagram from "../Assets/images/icon-instagram.svg";
-import facebook from "../Assets/images/icon-facebook.svg";
-import pinterest from "../Assets/images/icon-pinterest.svg";
-import twitter from "../Assets/images/icon-twitter.svg";
 
 const Footer = () => {
   return (
