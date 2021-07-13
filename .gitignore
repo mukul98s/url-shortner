@@ -22,5 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Netlify
+.netlify
+
 # design file
 /src/assets/design
